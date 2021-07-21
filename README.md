@@ -8,6 +8,9 @@ Heroku: <b><a href="https://whispering-eyrie-33435.herokuapp.com/" target="_blan
 
 Repo: <b><a href="https://github.com/fjimenez51/Google-Books" target="_blank">https://github.com/fjimenez51/Google-Books</a></b>
 
+Live Site: <b><a href="https://fjimenez51.github.io/Google-Books/" target="_blank">https://fjimenez51.github.io/Google-Books/</a></b>
+
+
 ### Tech Used:
  - React JS - Express J  - MongoDB - Node - Axios
 
@@ -36,13 +39,6 @@ Installation:
 
 `npm install`  
 
-Start Server:
-
-`npm start`  
-
-View App:
-
-`localhost:3001`  
 
 ---
 
